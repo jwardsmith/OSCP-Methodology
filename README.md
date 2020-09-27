@@ -1,4 +1,4 @@
-# OSCP Cheat Sheet
+# OSCP Methodology
 
 Port Scan
 ---------------
