@@ -1,4 +1,4 @@
-# OSCP Commands
+# OSCP Cheat Sheet
 
 Port Scan
 ---------------
