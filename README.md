@@ -1,4 +1,4 @@
-# OSCP Methodology
+# OSCP Commands
 
 Port Scan
 ---------------
