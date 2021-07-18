@@ -3,7 +3,7 @@
 Overview
 ---------
 - [Port Scan](#port-scan)
-- [Port 21 (FTP](#port-21-ftp)
+- [Port 21 (FTP](#port-21-ftp))
 - [Port 22 (SSH)]
 - [Port 25 (SMTP)]
 - [Port 53 (DNS)]
