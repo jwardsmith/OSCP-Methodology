@@ -1,5 +1,35 @@
 # OSCP Methodology
 
+Overview
+---------
+- [Port Scan](#port-scan)
+- [Port 21 (FTP](#port-21-(ftp))
+- [Port 22 (SSH)]
+- [Port 25 (SMTP)]
+- [Port 53 (DNS)]
+- [Port 69 (udp/TFTP)]
+- [Port 79 (FINGER)]
+- [Port 80, 443 (HTTP/HTTPS)]
+- [Port 88 (KERBEROS)]
+- [Port 110 (POP3)]
+- [Port 111 (RPCBIND)]
+- [Port 135 (MSRPC)]
+- [Port 137, 139, 445 (SAMBA/SMB)]
+- [Port 161 (udp/SNMP)]
+- [Port 389/636 (LDAP)]
+- [Port 512 (REXEC)]
+- [Port 513 (RLOGIN)]
+- [Port 514 (RSH)]
+- [Port 1433 (MSSQL)]
+- [Port 2049 (NFS)]
+- [Port 3306 (MYSQL)]
+- [Port 3389 (RDP)]
+- [Port 5432 (POSTGRESQL)]
+- [Port 5900 (VNC)]
+- [Port 5985 (WINRM)]
+- [Port 6667 (IRC)]
+- [Port 8080 (HTTP-PROXY)]
+
 Port Scan
 ---------------
 
